@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #**Finding Lane Lines on the Road** 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
@@ -68,3 +69,7 @@ Jupyter is an ipython notebook where you can run blocks of code and see results 
 `> jupyter notebook`
 
 A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
+=======
+# CarND-LaneLines-P1
+Self Driving Car Nanodegree project 1, Lane Detection
+>>>>>>> 11e46a55b568477421a71a40e2311b77468a01f0
